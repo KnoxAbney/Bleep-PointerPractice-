@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "functions.hpp"
+#include "bleepFunc.hpp"
 
 int main(){
 
